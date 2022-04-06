@@ -1,0 +1,1 @@
+Projeto para estudo de Python desenvolvido com a freeCodeCamp
